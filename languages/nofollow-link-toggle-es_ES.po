@@ -1,0 +1,33 @@
+# Copyright (C) 2023 David M. Ramos
+# This file is distributed under the same license as the Nofollow Link Toggle plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Nofollow Link Toggle 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/nofollow-link-toggle\n"
+"Last-Translator: \n"
+"Language-Team: Español\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-11-30T12:00:00+00:00\n"
+"PO-Revision-Date: 2023-11-30 12:00+0100\n"
+"X-Generator: WordPress\n"
+"X-Domain: nofollow-link-toggle\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Plugin Name of the plugin
+msgid "Nofollow Link Toggle"
+msgstr "Selector de Nofollow en Enlaces"
+
+#. Description of the plugin
+msgid "Adds an option to mark links as nofollow in the WordPress classic editor."
+msgstr "Añade una opción para marcar enlaces como nofollow en el editor clásico de WordPress."
+
+#: nofollow-link-toggle.php:43
+msgid "Add \"nofollow\" attribute to link"
+msgstr "Añadir atributo \"nofollow\" al enlace"
+
+#: nofollow-link-toggle.php:44
+msgid "Nofollow Link Toggle: Failed to insert UI"
+msgstr "Selector de Nofollow en Enlaces: No se pudo insertar la interfaz"
